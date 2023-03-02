@@ -1,0 +1,14 @@
+.bg-color{
+	background-color: gray;
+	height: 60px;
+	color: white;
+}
+
+.bg-col{
+	background-color: orange;
+	color: white;
+}
+
+.border{
+	border: 2px solid gray;
+}
